@@ -1,6 +1,5 @@
 const reverseString = function (fName) {
-    let reversed = fName.split('').reverse().join('');
-    
+    let reversed = fName.split("").reverse().join("");
     return reversed;
 };
 
